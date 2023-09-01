@@ -6,4 +6,6 @@ function git_practice(){
 
 console.log("NARASIMHA");
 
-console.log("message from local");
+console.log("message from local @5:18");
+
+console.log("Message from server @5:13");
